@@ -1,0 +1,11 @@
+Glassmorphism in user interfaces
+
+Another year, another UI trend isbecoming increasingly popular among designers. Do you know it yet?
+
+Michal Malewicz Nov 22 2020.........................
+
+Last year I unintentionally started the craze around Neumorphism, but as I predicted then, it really did not take over the design scene, In that very 
+
+first article, I also mentioned all the potential accessibility problems this style faces, which hopefully helped the other articles raising accessibility 
+
+issues that year.
